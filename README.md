@@ -6,6 +6,8 @@ This repository offers scripts to automatically label Twitter and Reddit users b
   
 The final assignment for the course "Applied Economics 1" can be found [here](https://htmlpreview.github.io/?https://github.com/darkkille276/Applied-Economics/blob/master/Final%20Assignment/Applied%2BEconomic%2BAnalysis%2B1%2BFinal%2BAssignment.html).
 
- <font size="+10"><b> The Plankton Reveals the Whale </b></font>
+ <font size="+10"><b> Reproduction </b></font>
  
-The data used in the assignment can be found [here]().
+Simply download the data used in the assignment from [here]() and run the .ipynb which can be found [here]()
+
+
