@@ -8,6 +8,6 @@ The final assignment for the course "Applied Economics 1" can be found [here](ht
 
  <font size="+10"><b> Reproduction </b></font>
  
-Simply download the data used in the assignment from [here]() and run the .ipynb which can be found [here]()
+Simply request the data used in the assignment from a.amezoug@uvt.nl and run the .ipynb which can be found [here](https://github.com/darkkille276/Applied-Economics/blob/master/Final%20Assignment/Applied%20Economic%20Analysis%201.ipynb).
 
 
