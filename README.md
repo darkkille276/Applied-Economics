@@ -1,6 +1,6 @@
 # Applied-Economics
 
- <font size="+2"><b> The Plankton Reveals the Whale </b></font>
+ <font size="+10"><b> The Plankton Reveals the Whale </b></font>
 
 This repository offers scripts to automatically label Twitter and Reddit users by gender and age, using self-reports . Using batches of 200 tweets/posts from their timeline, we train a fastText model to classify <b>other users</b> by gender and age. 
   
